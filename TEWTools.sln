@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEWTools", "TEWTools\TEWTools.csproj", "{47F993B5-A289-47AF-9360-1397227E9B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F993B5-A289-47AF-9360-1397227E9B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F993B5-A289-47AF-9360-1397227E9B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F993B5-A289-47AF-9360-1397227E9B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F993B5-A289-47AF-9360-1397227E9B50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {955663FF-503C-41F7-9E8C-A84CE3A0048B}
+	EndGlobalSection
+EndGlobal
